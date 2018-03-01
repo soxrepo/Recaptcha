@@ -2,10 +2,7 @@
 
 *This module is no longer actively supported by StudioForty9.*
 
-[![Build Status](https://travis-ci.org/StudioForty9/Recaptcha.svg?branch=master)](https://travis-ci.org/StudioForty9/Recaptcha)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/StudioForty9/Recaptcha/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/StudioForty9/Recaptcha/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/StudioForty9/Recaptcha/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/StudioForty9/Recaptcha/?branch=master)
-[![Downloads](https://img.shields.io/github/downloads/StudioForty9/Recaptcha/total.svg)](https://img.shields.io/github/downloads/StudioForty9/Recaptcha/total.svg)
+[![Build Status](https://travis-ci.org/soxrepo/Recaptcha.svg?branch=master)](https://travis-ci.org/soxrepo/Recaptcha)
 
 ## Features
 
