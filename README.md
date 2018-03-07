@@ -3,6 +3,7 @@
 *This module is no longer actively supported by StudioForty9.*
 
 [![Build Status](https://travis-ci.org/soxrepo/Recaptcha.svg?branch=master)](https://travis-ci.org/soxrepo/Recaptcha)
+[![Coverage Status](https://coveralls.io/repos/github/soxrepo/Recaptcha/badge.svg?branch=master)](https://coveralls.io/github/soxrepo/Recaptcha?branch=master)
 
 ## Features
 
