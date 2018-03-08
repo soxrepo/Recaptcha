@@ -3,6 +3,7 @@
 *This module is no longer actively supported by StudioForty9.*
 
 [![Build Status](https://travis-ci.org/soxrepo/Recaptcha.svg?branch=master)](https://travis-ci.org/soxrepo/Recaptcha)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4351397bf8054a62aba7917625ea4275)](https://www.codacy.com/app/soxrepo/Recaptcha?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soxrepo/Recaptcha&amp;utm_campaign=Badge_Grade)
 [![Coverage Status](https://coveralls.io/repos/github/soxrepo/Recaptcha/badge.svg?branch=master)](https://coveralls.io/github/soxrepo/Recaptcha?branch=master)
 
 ## Features
