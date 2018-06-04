@@ -39,7 +39,7 @@ Documentation can be found at http://recaptcha.readme.io/docs/
 
 ## Extending/Using with your own forms
 
-Please refer to the developer documentation at https://recaptcha.readme.io/v1.5/docs/developer
+Please refer to the developer documentation at https://recaptcha.readme.io/docs/developers
 
 ## Licence
 
